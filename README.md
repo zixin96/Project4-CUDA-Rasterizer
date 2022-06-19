@@ -19,3 +19,4 @@ project, and we will not be able to grade you without a good README.
 
 * [tinygltfloader](https://github.com/syoyo/tinygltfloader) by [@soyoyo](https://github.com/syoyo)
 * [glTF Sample Models](https://github.com/KhronosGroup/glTF/blob/master/sampleModels/README.md)
+* CIS 565 Fall 2018 Team for providing the base code

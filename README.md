@@ -14,6 +14,12 @@ CUDA Rasterizer
 *DO NOT* leave the README to the last minute! It is a crucial part of the
 project, and we will not be able to grade you without a good README.
 
+Slides here!!!!
+
+https://docs.google.com/presentation/d/1goI_0lj0eJ2MH3fHjlX6fRmg6YYFEkQWlzO9W_AYXIA/edit?usp=sharing
+
+
+
 
 ### Credits
 
